@@ -7,9 +7,14 @@
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
+h2 #fact-1 {
+  margin-bottom: 25px;
+}
+
 /* Fact 1 */
 #fact-1 {
   font-weight: bolder;
+  float: right;
 }
 
 /* TODO: Fact 2 */
