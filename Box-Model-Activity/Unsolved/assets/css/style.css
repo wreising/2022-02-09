@@ -1,0 +1,23 @@
+section {
+  width: 600px;
+  height: 600px;
+  text-align: center;
+  border: 15px dotted black;
+  float: right;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  background-color: lightblue;
+  /*TODO:;
+  Addamarginproperty*/
+  margin: 25px;
+  /*TODO:;
+  Addapaddingproperty*/
+  padding: 20px;
+  /*TODO:;
+  Addaborderproperty*/
+  border: 2px dotted darkblue;
+  border-radius: 20px;
+}
